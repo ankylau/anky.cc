@@ -1,2 +1,1 @@
-# anky.cc
-nothing
+My personal blog.
